@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**DanielsCorrea/Danielscorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...<h1 data-importer="text" align="left">Hello, I'm Daniel! 👋</h1>
+<h1 data-importer="text" align="left">Hello, I'm Daniel! 👋</h1>
 
 ###
 
@@ -42,11 +35,3 @@ Here are some ideas to get you started:
 <h3 data-importer="text" align="left">📚 Sempre estudando, praticando e evoluindo.</h3>
 
 ###
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
